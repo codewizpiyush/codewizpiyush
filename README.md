@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Piyush Gupta 👋<br><br>🚀 MERN Stack Developer passionate about building scalable web applications and AI-powered solutions.<br><br>🎓 B.Tech in Artificial Intelligence & Data Science (2026) from Chameli Devi Group of Institutions, Indore.<br><br>💼 Former Software Developer Intern at Ypsilon IT Solutions Pvt. Ltd.<br><br>🌱 Currently learning React Native and expanding my expertise in full-stack development.<br><br>🎯 Seeking opportunities as a Software Developer, MERN Stack Developer, or Full Stack Developer.
 
+Personal Portfolio Link: https://personalportfolio-uh1m.onrender.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_._._piyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/piyushgupta4108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewizpiyush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.with.piyush.gupta@gmail.com) 
